@@ -5,7 +5,7 @@ Preparation for software engineering internship, Summer 2019 (Google, IBM, Amazo
 
 - Coding
 - Algorithms
-- Sorting
+- Sorting and Searching
 - Data Structures
 - Hashtables and Maps
 - Trees
