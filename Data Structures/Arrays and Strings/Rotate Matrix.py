@@ -16,7 +16,7 @@ class Solution:
                     break
                 temp = matrix[i][j]
                 matrix[i][j] = matrix[n-1-j][n-1-i]
-                matrix[n-1-j][n-1-i] = temp #swap symmetry
+                matrix[n-1-j][n-1-i] = temp #swap symmetry ; matrix[i][j],matrix[n-1-j][n-1-i] = matrix[n-1-j][n-1-i],matrix[i][j]
         
         matrix.reverse() #reverse up to down
 
