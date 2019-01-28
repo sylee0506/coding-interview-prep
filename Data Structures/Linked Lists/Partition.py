@@ -45,6 +45,8 @@ class Solution:
 
 """
 python good code)
+#h1 becomes list of values smaller than x, h2 becomes list of values bigger thas x or same as x
+
 def partition(self, head, x):
     h1 = l1 = ListNode(0)
     h2 = l2 = ListNode(0)
