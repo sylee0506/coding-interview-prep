@@ -6,7 +6,7 @@ Preparation for software engineering internship, Summer 2019 (Google, IBM, Amazo
 - Coding
 - Algorithms
 - Sorting and Searching
-- Data Structures (Arrays and Strings / Linked Lists / Stack and Queue)
+- Data Structures (Arrays and Strings / Linked Lists / Stacks and Queues)
 - Hashtables and Maps
 - Trees
 - Min/Max Heaps
