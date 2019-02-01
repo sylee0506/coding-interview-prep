@@ -9,7 +9,7 @@ Preparation for software engineering internship, Summer 2019 (Google, IBM, Amazo
 - Data Structures (Arrays and Strings / Linked Lists / Stacks and Queues)
 - Hashtables and Maps
 - Trees
-- Min/Max Heaps
+- Heaps
 - Graphs
 - Recursion
 - Operating Systems
