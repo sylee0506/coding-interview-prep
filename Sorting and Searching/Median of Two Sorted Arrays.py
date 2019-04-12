@@ -79,7 +79,7 @@ class Solution(object):
 
 
 #other solution)
-#idea : "if we cut the sorted array to two halves of EQUAL LENGTHS, then median is the AVERAGE OF Max(lower_half) and Min(upper_half)
+#idea : "if we cut the sorted array to two halves of EQUAL LENGTHS, then median is the AVERAGE OF Max(lower_half) and Min(upper_half)"
 #python good code)
 '''
 def median(A, B):
@@ -114,4 +114,7 @@ def median(A, B):
             else: min_of_right = min(A[i], B[j])
 
             return (max_of_left + min_of_right) / 2.0
+    
 '''
+
+#other solution)'find kth smallest element algorithm' using recursion would also work
