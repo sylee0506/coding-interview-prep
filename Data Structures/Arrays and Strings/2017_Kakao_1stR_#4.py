@@ -1,3 +1,7 @@
+#2017 Kakao Blind Coding Test 1차 셔틀버스(#4)
+#question link: http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
+#string manipulation, array, time calculation as string
+
 def solution(n, t, m, timetable):
     bus = n
     time = "09:00"
